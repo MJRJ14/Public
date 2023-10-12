@@ -1,0 +1,11 @@
+C:\Users\mjeff\OneDrive\Desktop\Public Repo\Public\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\mjeff\OneDrive\Desktop\Public Repo\Public\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\mjeff\OneDrive\Desktop\Public Repo\Public\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\mjeff\OneDrive\Desktop\Public Repo\Public\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\mjeff\OneDrive\Desktop\Public Repo\Public\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\mjeff\OneDrive\Desktop\Public Repo\Public\Minesweeper\obj\Debug\Minesweeper.menuForm.resources
+C:\Users\mjeff\OneDrive\Desktop\Public Repo\Public\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\mjeff\OneDrive\Desktop\Public Repo\Public\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\mjeff\OneDrive\Desktop\Public Repo\Public\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\mjeff\OneDrive\Desktop\Public Repo\Public\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\mjeff\OneDrive\Desktop\Public Repo\Public\Minesweeper\obj\Debug\Minesweeper.pdb
